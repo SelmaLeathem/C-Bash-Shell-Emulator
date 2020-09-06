@@ -12,6 +12,7 @@ Developed a shell called *smallsh* in C that works like a bash shell where comma
 ## To Run Code in Google Colaboratory
 
 1. Vist https://colab.research.google.com/drive/1tyOQP_J1ck2TXvtLJodm15Az-d7yEjBp?usp=sharing
+1. Select Runtime-> Factory reset runtime
 1. Select Runtime-> Run all 
 1. In last cell enter commands into the box
 1. enter *exit to exit
