@@ -1,6 +1,6 @@
 #  C Bash Shell Emulator  
 
-Developed a shell called *smallsh* in C that works like a bash shell where command line arguments are prompted for and commands are run. Features include:
+Developed a shell in C that emulates a bash shell where command line arguments are prompted for and commands are run. Features include:
 
 *  Redirection <, > is supported
 *  Supports foreground and background processes
