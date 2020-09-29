@@ -26,8 +26,8 @@ General command line syntax is:
 
 1. Make sure the makefile is in the same directory as the code
 1. On the commandline enter: *make*
-      This will compile the code into an executable/binary called *smallsh*
-1. On the commandline enter: *./smallsh*
+      This will compile the code into an executable/binary called *bashShell*
+1. On the commandline enter: *./bashShell*
 
 #### To clean up:
 On the commandline enter: *make clean*
